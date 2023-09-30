@@ -1,3 +1,4 @@
 # NetflixClone
-Netflix Clone Using HTML and CSS
-#loading
+Netflix Clone made Using HTML and CSS.
+
+
